@@ -1,6 +1,7 @@
-## After  Styling
+## After Styling
 
-This is the after version of the project styling. The screenshot below shows how it currently looks. After styling is complete, I’ll create a separate repository for the updated version and add its link here.
+This screenshot shows the project after styling was applied. The complete styled version will be available in a separate repository; I’ll add the link here once it’s created.
 
-![Initial version before styling](./ALfawd%202026.jpg.jpeg)
+![Project after styling](https://raw.githubusercontent.com/dhanyabhat-78/alfawd-file/main/ALfawd%202026%20style.jpg.jpeg)
 
+**Styled version:** Link coming soon.
